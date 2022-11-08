@@ -1,5 +1,4 @@
-## Kodehode Projects  
-&nbsp;  
+## Kodehode Projects
 
 [Solar System](https://knutcode.github.io/hostoppgave/)  -  [Repo](https://github.com/knutcode/hostoppgave)
 > My first collaborative git project working with multiple contributors, where I was responsible for the groups planning, execution and workflow. Planning involved Communication, Figma, Git and GitHub functionality such as branches, pullrequests and merging. 
@@ -10,13 +9,9 @@
 [Collatz Calculator](https://knutcode.github.io/kodehode/collatz-conjencture/)  -  [Repo](https://github.com/knutcode/kodehode/tree/main/collatz-conjencture)
 > A Project using JS Logic/Calculations to calculate the Collatz Conjencture.  
 
-
-
-
 &nbsp;  
 &nbsp;  
-## Scrimba Solo Projects  
-&nbsp;  
+## Scrimba Solo Projects
 
 [Tindog](https://knutcode.github.io/tindog/)  -  [Repo](https://github.com/knutcode/tindog)
 > A mockup "Tinder clone".
@@ -36,12 +31,9 @@ Meme Generator - [Repo](https://github.com/knutcode/meme-generator)
 [Unit Converter](https://knutcode.github.io/scrimba/unit-converter/)  -  [Repo](https://github.com/knutcode/scrimba/tree/main/unit-converter)
 > My first ever JavaScript project, simple unit conversions.  
 
-
-
 &nbsp;  
 &nbsp;  
-## Kodehode Assignments/Lessons  
-&nbsp;  
+## Kodehode Assignments/Lessons
 
 [useContext SPA counter](https://knutcode.github.io/context-counter/#/)  -  [Repo](https://github.com/knutcode/context-counter/tree/master/src)
 > First time using useContext to track state accross multiple pages.
