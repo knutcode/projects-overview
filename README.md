@@ -1,3 +1,7 @@
+Listing the most notable projects and assignments not included in my portfolio
+&nbsp;  
+&nbsp;  
+
 ## Kodehode Projects
 
 #### [Solar System](https://knutcode.github.io/hostoppgave/)  -  [Repo](https://github.com/knutcode/hostoppgave)
