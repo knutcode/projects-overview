@@ -4,6 +4,8 @@ A Collection of other "notable" projects/assignments not included in my portfoli
 
 
 
+
+
 ## Kodehode Projects
 
 [Solar System](https://knutcode.github.io/hostoppgave/) - [Repo](https://github.com/knutcode/hostoppgave)
@@ -14,6 +16,8 @@ A Collection of other "notable" projects/assignments not included in my portfoli
 
 [Collatz Calculator](https://knutcode.github.io/kodehode/collatz-conjencture/) - [Repo](https://github.com/knutcode/kodehode/tree/main/collatz-conjencture)
 > A Project using JS Logic/Calculations to calculate the Collatz Conjencture.
+
+
 
 
 
@@ -36,6 +40,8 @@ Meme Generator - [Repo](https://github.com/knutcode/meme-generator)
 
 [Unit Converter](https://knutcode.github.io/scrimba/unit-converter/) - [Repo](https://github.com/knutcode/scrimba/tree/main/unit-converter)
 > My first ever JavaScript project, simple unit conversions.
+
+
 
 
 
