@@ -2,6 +2,8 @@
 
 A Collection of other "notable" projects/assignments not included in my portfolio.
 
+
+
 ## Kodehode Projects
 
 [Solar System](https://knutcode.github.io/hostoppgave/) - My first collaborative git project working with multiple contributors, where I was responsible for the groups planning, execution and workflow. Planning involved Communication, Figma, Git and GitHub functionality such as branches, pullrequests and merging. - [Github](https://github.com/knutcode/hostoppgave)
@@ -10,19 +12,23 @@ A Collection of other "notable" projects/assignments not included in my portfoli
 
 [Collatz Calculator](https://knutcode.github.io/kodehode/collatz-conjencture/) - A Project using JS Logic/Calculations to calculate the Collatz Conjencture - [GitHub](https://github.com/knutcode/kodehode/tree/main/collatz-conjencture)
 
+
+
 ## Scrimba Solo Projects
 
-[Tindog](https://knutcode.github.io/tindog/) - A mockup "Tinder clone" - [GitHub](https://github.com/knutcode/tindog)
+### [Tindog](https://knutcode.github.io/tindog/) - A mockup "Tinder clone" - [GitHub](https://github.com/knutcode/tindog)
 
 [Travel Journal](https://knutcode.github.io/travel-journal/) - A simple static travel journal, practicing components - [GitHub](https://knutcode.github.io/travel-journal/)
 
-Meme Generator - A meme generator using an img API library, utilized new concepts for me such as setting state with array spread operators etc. - [GitHub](https://github.com/knutcode/meme-generator))
+Meme Generator - A meme generator using an img API library, utilized new concepts for me such as setting state with array spread operators etc. - [GitHub](https://github.com/knutcode/meme-generator)
 
 [BBQ Master](https://knutcode.github.io/scrimba/bbq-splash-page/) - A BBQ Splash-page practicing responsive layouts / media-queries - [GitHub](https://github.com/knutcode/scrimba/tree/main/bbq-splash-page)
 
 [Invoice Creator](https://knutcode.github.io/scrimba/invoice-creator/) - A Simple invoice app, my first time using conditional renders and in a project - [GitHub](https://github.com/knutcode/scrimba/tree/main/invoice-creator)
 
 [Unit Converter](https://knutcode.github.io/scrimba/unit-converter/) - My first ever JavaScript project, simple unit conversions - [GitHub](https://github.com/knutcode/scrimba/tree/main/unit-converter)
+
+
 
 ## Kodehode Assignments/Lessons
 
