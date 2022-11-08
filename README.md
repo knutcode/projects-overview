@@ -1,4 +1,4 @@
-## Kodehode Projects
+## Kodehode Projects  
 &nbsp;  
 
 [Solar System](https://knutcode.github.io/hostoppgave/)  -  [Repo](https://github.com/knutcode/hostoppgave)
@@ -8,13 +8,14 @@
 > Small, fun and fully responsive app using the catfact.ninja API.
 
 [Collatz Calculator](https://knutcode.github.io/kodehode/collatz-conjencture/)  -  [Repo](https://github.com/knutcode/kodehode/tree/main/collatz-conjencture)
-> A Project using JS Logic/Calculations to calculate the Collatz Conjencture.
+> A Project using JS Logic/Calculations to calculate the Collatz Conjencture.  
+
+
+
+
 &nbsp;  
-
-
-
-
-## Scrimba Solo Projects
+&nbsp;  
+## Scrimba Solo Projects  
 &nbsp;  
 
 [Tindog](https://knutcode.github.io/tindog/)  -  [Repo](https://github.com/knutcode/tindog)
@@ -33,13 +34,13 @@ Meme Generator - [Repo](https://github.com/knutcode/meme-generator)
 > A Simple invoice app, my first time using conditional renders and in a project.
 
 [Unit Converter](https://knutcode.github.io/scrimba/unit-converter/)  -  [Repo](https://github.com/knutcode/scrimba/tree/main/unit-converter)
-> My first ever JavaScript project, simple unit conversions.
+> My first ever JavaScript project, simple unit conversions.  
+
+
+
 &nbsp;  
-
-
-
-
-## Kodehode Assignments/Lessons
+&nbsp;  
+## Kodehode Assignments/Lessons  
 &nbsp;  
 
 [useContext SPA counter](https://knutcode.github.io/context-counter/#/)  -  [Repo](https://github.com/knutcode/context-counter/tree/master/src)
