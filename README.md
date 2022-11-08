@@ -1,5 +1,7 @@
 # More Projects
 
+A Collection of other "notable" projects/assignments not included in my portfolio.
+
 ## Kodehode Projects
 
 [Solar System](https://knutcode.github.io/hostoppgave/) - My first collaborative git project working with multiple contributors, where I was responsible for the groups planning, execution and workflow. Planning involved Communication, Figma, Git and GitHub functionality such as branches, pullrequests and merging. - [Github](https://github.com/knutcode/hostoppgave)
