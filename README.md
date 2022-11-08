@@ -6,7 +6,8 @@ A Collection of other "notable" projects/assignments not included in my portfoli
 
 ## Kodehode Projects
 
-[Solar System](https://knutcode.github.io/hostoppgave/) - My first collaborative git project working with multiple contributors, where I was responsible for the groups planning, execution and workflow. Planning involved Communication, Figma, Git and GitHub functionality such as branches, pullrequests and merging. - [Github](https://github.com/knutcode/hostoppgave)
+###### [Solar System](https://knutcode.github.io/hostoppgave/) 
+> My first collaborative git project working with multiple contributors, where I was responsible for the groups planning, execution and workflow. Planning involved Communication, Figma, Git and GitHub functionality such as branches, pullrequests and merging. - [Github](https://github.com/knutcode/hostoppgave)
 
 [Cat Facts](https://knutcode.github.io/cat-facts/) - Small, fun and fully responsive app using the catfact.ninja API - [GitHub](https://github.com/knutcode/cat-facts/tree/master/src)
 
@@ -16,7 +17,7 @@ A Collection of other "notable" projects/assignments not included in my portfoli
 
 ## Scrimba Solo Projects
 
-### [Tindog](https://knutcode.github.io/tindog/) - A mockup "Tinder clone" - [GitHub](https://github.com/knutcode/tindog)
+[Tindog](https://knutcode.github.io/tindog/) - A mockup "Tinder clone" - [GitHub](https://github.com/knutcode/tindog)
 
 [Travel Journal](https://knutcode.github.io/travel-journal/) - A simple static travel journal, practicing components - [GitHub](https://knutcode.github.io/travel-journal/)
 
