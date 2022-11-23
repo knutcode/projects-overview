@@ -1,5 +1,5 @@
 ## Overview
-Listing the most notable projects and assignments not included in my portfolio")
+Listing the most notable projects and assignments not included in my portfolio
 
 
 &nbsp;  
