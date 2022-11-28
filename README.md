@@ -50,6 +50,11 @@ Listing the most notable projects and assignments not included in my portfolio
  
 <img src="https://i.imgur.com/wM0fryr.png" height="auto" width="500">
 
+[Password Generator](https://knutcode.github.io/scrimba/password-generator/)  -  [Repo](https://github.com/knutcode/scrimba/tree/main/password-generator)
+> Creates four randomized passwords of selected lengths for you.
+
+<img src="https://i.imgur.com/2HGaOLW.png" height="auto" width="500">
+
 [Unit Converter](https://knutcode.github.io/scrimba/unit-converter/)  -  [Repo](https://github.com/knutcode/scrimba/tree/main/unit-converter)
 > My first ever JavaScript project, simple unit conversions.  
  
