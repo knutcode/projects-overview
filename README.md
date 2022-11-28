@@ -6,6 +6,11 @@ Listing the most notable projects and assignments not included in my portfolio
 
 ## Kodehode Projects
 
+#### [Quantfolio](https://knutcode.github.io/quantfolio/)  -  [Repo](https://github.com/knutcode/quantfolio)
+> My first code-test from a workplace, using a test-API to get information about stocks, data reformatting and using that data with Highcharts.js to visualize the data in a time series chart.
+
+<img src="https://i.imgur.com/5sRA09i.png" height="auto" width="500">
+
 #### [Solar System](https://knutcode.github.io/hostoppgave/)  -  [Repo](https://github.com/knutcode/hostoppgave)
 > My first collaborative git project working with multiple contributors, where I was responsible for the groups planning, execution and workflow. Planning involved Communication, Figma, Git and GitHub functionality such as branches, pullrequests and merging.  
  
@@ -50,12 +55,12 @@ Listing the most notable projects and assignments not included in my portfolio
  
 <img src="https://i.imgur.com/wM0fryr.png" height="auto" width="500">
 
-[Password Generator](https://knutcode.github.io/scrimba/password-generator/)  -  [Repo](https://github.com/knutcode/scrimba/tree/main/password-generator)
+#### [Password Generator](https://knutcode.github.io/scrimba/password-generator/)  -  [Repo](https://github.com/knutcode/scrimba/tree/main/password-generator)
 > Creates four randomized passwords of selected lengths for you.
 
 <img src="https://i.imgur.com/2HGaOLW.png" height="auto" width="500">
 
-[Unit Converter](https://knutcode.github.io/scrimba/unit-converter/)  -  [Repo](https://github.com/knutcode/scrimba/tree/main/unit-converter)
+#### [Unit Converter](https://knutcode.github.io/scrimba/unit-converter/)  -  [Repo](https://github.com/knutcode/scrimba/tree/main/unit-converter)
 > My first ever JavaScript project, simple unit conversions.  
  
 <img src="https://i.imgur.com/scBWGzy.png" height="auto" width="500">
